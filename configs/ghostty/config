@@ -1,0 +1,26 @@
+theme = catppuccin-mocha
+# theme = GruvboxDarkHard
+
+font-family = Hack
+font-size = 15
+
+shell-integration-features = true
+cursor-style = block
+adjust-cell-height = 15%
+
+# window
+macos-titlebar-style=transparent
+window-padding-balance = true 
+window-padding-x = 10, 2
+window-padding-y = 5
+window-save-state = always
+
+# window bindings
+keybind = global:cmd+shift+space=toggle_quick_terminal
+
+# tabs 
+keybind = cmd+shift+l=next_tab
+keybind = cmd+shift+h=previous_tab
+
+# icon
+macos-icon = official

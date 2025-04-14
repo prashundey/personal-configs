@@ -8,11 +8,6 @@ Personal setup for shell and terminal on Apple Silicon.
 - [Eza](https://github.com/eza-community/eza) – Modern replacement for `ls`
 - [Viu](https://github.com/atanunq/viu) - Simple terminal image viewer
 
-## ⚙️ Shell Setup – Zsh
-- Using **Oh My Zsh** with a streamlined plugin setup
-- Custom `eza` aliases for a cleaner `ls` experience:
-
-
 ![ghostty setup](snapshots/snapshot-4-13-2025.png)
 
 -----------
@@ -90,7 +85,7 @@ All commands use `eza` with:
 - `--group-directories-first`  
 - `--sort=name` for alphabetic order  
 
----
+
 ### 🖼️ Image Viewing in Terminal
 
 | Alias   | Description                       |
@@ -99,7 +94,6 @@ All commands use `eza` with:
 
 > _Requires a terminal with [Kitty graphics protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/) support — Ghostty supports this._
 
----
 
 ### 🧙 Ghostty Quick Toggle
 

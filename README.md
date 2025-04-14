@@ -20,7 +20,6 @@ Personal setup for shell and terminal on Apple Silicon.
 
 To replicate this terminal setup on a new Mac:
 
-1. Download Ghostty 
 1. **Clone this repo**
 ```bash
 git clone https://github.com/prashundey/personal-configs.git ~/personal-configs
@@ -49,7 +48,7 @@ Install Oh My Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-5. **Open Ghostty**
+4. **Open Ghostty**
 Clean up the auto-created ghosty initial config file that was installed during `brew install ghosty`
 ```bash
 rm -rf "$HOME/Library/Application Support/com.mitchellh.ghostty/config"

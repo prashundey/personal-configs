@@ -1,7 +1,9 @@
 # Oh-my-zsh
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git)
 export ZSH="$HOME/.oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
+source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # history optimizations
 HISTFILE=~/.zsh_history           # where to store your history
 HISTSIZE=10000                    # number of lines kept in memory

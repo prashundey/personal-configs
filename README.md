@@ -29,6 +29,7 @@ git clone https://github.com/prashundey/personal-configs.git ~/personal-configs
 ```bash
 cp -r ~/personal-configs/.config ~/.config
 cp ~/personal-configs/.zshrc ~/.zshrc
+cp ~/personal-configs/.vimrc ~/.vimrc
 ```
 
 3. **Install essential tools**

@@ -8,10 +8,12 @@ Personal setup for shell and terminal on Apple Silicon.
 - [Eza](https://github.com/eza-community/eza) – Modern replacement for `ls`
 - [Viu](https://github.com/atanunq/viu) - Simple terminal image viewer
 
-<p align="center" style="display: flex; gap: 10px;">
-  <img src="snapshots/image1.png" alt="ghostty setup" style="width: 40%; height: auto;"/>
-  <img src="snapshots/image2.png" alt="ghostty setup" style="width: 60%; height: auto;"/>
-</p>
+[](snapshots/image1.png)
+
+<img src="snapshots/image1.png" alt="ghostty setup" width="75%" height="75%" style="vertical-align: middle;"/>
+<img src="snapshots/image2.png" alt="ghostty setup" width="75%" height="75%" style="vertical-align: middle;"/>
+
+
 
 -----------
 

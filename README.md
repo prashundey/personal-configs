@@ -1,20 +1,15 @@
-# Personal Configs 
+# 🛠️ Personal Configs
+Personal setup for shell and terminal on Apple Silicon.
 
-## Links
-- https://ghostty.org/
-- https://starship.rs/
-- https://ohmyz.sh/
-- https://github.com/eza-community/eza
+## 🔗 Essential Tools
+- [Ghostty](https://ghostty.org/) – GPU-accelerated terminal emulator
+- [Starship](https://starship.rs/) – Blazing-fast, customizable shell prompt
+- [Oh My Zsh](https://ohmyz.sh/) – Framework for managing your Zsh configuration
+- [Eza](https://github.com/eza-community/eza) – Modern replacement for `ls`
 
-### Zsh
-- oh-my-zsh dependencies might be better
-- eza aliases
-
-### Terminal
-- ghostty
-- starship
+## ⚙️ Shell Setup – Zsh
+- Using **Oh My Zsh** with a streamlined plugin setup
+- Custom `eza` aliases for a cleaner `ls` experience:
 
 
-### Hidden Elements from Root
-- `~/.config`
-- `~/.zshrc`
+![ghostty setup](snapshots/snapshot-4-13-2025.png)

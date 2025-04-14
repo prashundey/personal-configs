@@ -9,8 +9,8 @@ Personal setup for shell and terminal on Apple Silicon.
 - [Viu](https://github.com/atanunq/viu) - Simple terminal image viewer
 
 <p align="center" style="display: flex; gap: 10px;">
-  <img src="snapshots/image1" alt="ghostty setup" style="width: 30%; height: auto;"/>
-  <img src="snapshots/image2" alt="ghostty setup" style="width: 70%; height: auto;"/>
+  <img src="snapshots/image1.png" alt="ghostty setup" style="width: 40%; height: auto;"/>
+  <img src="snapshots/image2.png" alt="ghostty setup" style="width: 60%; height: auto;"/>
 </p>
 
 -----------

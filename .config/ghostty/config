@@ -4,7 +4,7 @@ theme = catppuccin-mocha
 font-family = Hack
 font-size = 15
 
-shell-integration-features = true
+shell-integration-features = false
 cursor-style = block
 adjust-cell-height = 15%
 

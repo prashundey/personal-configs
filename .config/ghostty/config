@@ -1,5 +1,7 @@
 theme = catppuccin-mocha
 # theme = GruvboxDarkHard
+# theme = ayu
+# theme = niji
 
 font-family = Hack
 font-size = 15
@@ -11,16 +13,18 @@ adjust-cell-height = 15%
 # window
 macos-titlebar-style=transparent
 window-padding-balance = true 
-window-padding-x = 10, 2
-window-padding-y = 5
-window-save-state = always
+window-padding-x = 10
+window-save-state = default
 
-# window bindings
+# quick terminal
 keybind = global:cmd+shift+space=toggle_quick_terminal
+quick-terminal-position = top
+quick-terminal-screen = main
+quick-terminal-space-behavior = remain
 
 # tabs 
-keybind = cmd+shift+l=next_tab
-keybind = cmd+shift+h=previous_tab
+keybind = cmd+[=previous_tab
+keybind = cmd+]=next_tab
 
 # icon
 macos-icon = official

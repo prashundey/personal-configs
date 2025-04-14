@@ -50,8 +50,9 @@ Install Oh My Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-4. **Open Ghostty**
-Clean up the auto-created ghosty initial config file that was installed during `brew install ghosty`
+4. **Launch Ghostty**
+
+> _Clean up the auto-created ghosty initial config file that was installed during the brew install_
 ```bash
 rm -rf "$HOME/Library/Application Support/com.mitchellh.ghostty/config"
 ```

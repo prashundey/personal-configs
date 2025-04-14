@@ -42,7 +42,7 @@ Homebrew
 
 Install tools via Homebrew
 ```bash
-brew install ghostty starship eza zsh viu neovim
+brew install ghostty starship eza zsh viu
 ```
 
 Install Oh My Zsh
